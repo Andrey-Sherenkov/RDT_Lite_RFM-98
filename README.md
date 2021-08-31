@@ -1,2 +1,2 @@
 # RDT_Lite_RFM-98
-Radio deermic
+Radio determic
